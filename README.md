@@ -1,6 +1,7 @@
 # COVID19-Tracker
 
-Here is how you can see how it work!
+Here is the way you can see how it works!
+
 - Clone the repository
 - Run NPM INSTALL to install/restore dependencies
 - npm start to run the application
