@@ -9,3 +9,4 @@ Here is the way you can see how it works!
 
 
 API used for COVID-19 stats: https://covid19.mathdro.id/api
+Deployed Demo: http://forgetful-temper.surge.sh/
